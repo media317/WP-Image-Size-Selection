@@ -1,4 +1,5 @@
 === Image Size to Media Selection ===
+=====================================
 Contributors: Alan Smith
 Tags: wordpress,image size
 Requires at least: 3.0
