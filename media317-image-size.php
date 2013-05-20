@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Image Size to Media Selection
-Plugin URI: http://media317.net
+Plugin URI: https://github.com/media317/image-size-to-media-selection
 Description: Adds all available image sizes to the WordPress media size dropdown selector.
 Author: Alan Smith
 Version: 1.0
