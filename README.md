@@ -1,9 +1,9 @@
-=== Image Size to Media Selection ===</br>
-Contributors: Alan Smith</br>
-Tags: wordpress,image size</br>
-Requires at least: 3.0</br>
-Tested up to: 3.5.1</br>
-</br>
+=== Image Size to Media Selection ===
+Contributors: Alan Smith
+Tags: wordpress,image size
+Requires at least: 3.0
+Tested up to: 3.5.1
+
 == Description ==
 
 Allows you to add any available image sizes to the media size selection drop down.
