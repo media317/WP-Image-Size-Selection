@@ -8,8 +8,6 @@ Tested up to: 3.5.1
 
 Allows you to add any available image sizes to the media size selection drop down.
 
-[Support Forum](https://github.com/billerickson/Div-Shortcode/issues)
-
 == Changelog ==
 
 = 1.0 =
