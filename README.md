@@ -2,7 +2,7 @@
 -------------------------------------
 Contributors: Alan Smith
 Tags: wordpress,image size
-Requires at least: 3.0
+equires at least: 3.0
 Tested up to: 3.5.1
 
 == Description ==
