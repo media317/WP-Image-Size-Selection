@@ -8,10 +8,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Allows you to add any available image sizes to the media size selection drop down.
-
 == Description ==
-
+Allows you to add any available image sizes to the media size selection drop down.
 
 
 == Installation ==
